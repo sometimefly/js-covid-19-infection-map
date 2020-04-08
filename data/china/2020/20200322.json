@@ -1,10 +1,10 @@
 {
     "adm1": {
         "\u4e0a\u6d77\u5e02": {
-            "confirmedCount": 380,
+            "confirmedCount": 394,
             "suspectedCount": 0,
-            "curedCount": 327,
-            "deadCount": 3
+            "curedCount": 328,
+            "deadCount": 4
         },
         "\u4e91\u5357\u7701": {
             "confirmedCount": 176,
@@ -19,9 +19,9 @@
             "deadCount": 1
         },
         "\u5317\u4eac\u5e02": {
-            "confirmedCount": 504,
+            "confirmedCount": 514,
             "suspectedCount": 0,
-            "curedCount": 396,
+            "curedCount": 400,
             "deadCount": 8
         },
         "\u5409\u6797\u7701": {
@@ -31,7 +31,7 @@
             "deadCount": 1
         },
         "\u56db\u5ddd\u7701": {
-            "confirmedCount": 542,
+            "confirmedCount": 543,
             "suspectedCount": 0,
             "curedCount": 536,
             "deadCount": 3
@@ -55,9 +55,9 @@
             "deadCount": 6
         },
         "\u5c71\u4e1c\u7701": {
-            "confirmedCount": 764,
+            "confirmedCount": 766,
             "suspectedCount": 0,
-            "curedCount": 749,
+            "curedCount": 750,
             "deadCount": 7
         },
         "\u5c71\u897f\u7701": {
@@ -67,9 +67,9 @@
             "deadCount": 0
         },
         "\u5e7f\u4e1c\u7701": {
-            "confirmedCount": 1400,
+            "confirmedCount": 1407,
             "suspectedCount": 0,
-            "curedCount": 1325,
+            "curedCount": 1329,
             "deadCount": 8
         },
         "\u5e7f\u897f\u58ee\u65cf\u81ea\u6cbb\u533a": {
@@ -85,19 +85,19 @@
             "deadCount": 3
         },
         "\u6c5f\u82cf\u7701": {
-            "confirmedCount": 631,
+            "confirmedCount": 633,
             "suspectedCount": 0,
             "curedCount": 631,
             "deadCount": 0
         },
         "\u6c5f\u897f\u7701": {
-            "confirmedCount": 935,
+            "confirmedCount": 936,
             "suspectedCount": 0,
             "curedCount": 934,
             "deadCount": 1
         },
         "\u6cb3\u5317\u7701": {
-            "confirmedCount": 318,
+            "confirmedCount": 319,
             "suspectedCount": 0,
             "curedCount": 310,
             "deadCount": 6
@@ -109,7 +109,7 @@
             "deadCount": 22
         },
         "\u6d59\u6c5f\u7701": {
-            "confirmedCount": 1236,
+            "confirmedCount": 1237,
             "suspectedCount": 0,
             "curedCount": 1219,
             "deadCount": 1
@@ -123,8 +123,8 @@
         "\u6e56\u5317\u7701": {
             "confirmedCount": 67800,
             "suspectedCount": 0,
-            "curedCount": 58946,
-            "deadCount": 3139
+            "curedCount": 59433,
+            "deadCount": 3144
         },
         "\u6e56\u5357\u7701": {
             "confirmedCount": 1018,
@@ -133,19 +133,19 @@
             "deadCount": 4
         },
         "\u6fb3\u95e8\u7279\u522b\u884c\u653f\u533a": {
-            "confirmedCount": 17,
+            "confirmedCount": 20,
             "suspectedCount": 0,
             "curedCount": 10,
             "deadCount": 0
         },
         "\u7518\u8083\u7701": {
-            "confirmedCount": 134,
+            "confirmedCount": 136,
             "suspectedCount": 0,
-            "curedCount": 113,
+            "curedCount": 114,
             "deadCount": 2
         },
         "\u798f\u5efa\u7701": {
-            "confirmedCount": 303,
+            "confirmedCount": 307,
             "suspectedCount": 0,
             "curedCount": 295,
             "deadCount": 1
@@ -165,12 +165,12 @@
         "\u8fbd\u5b81\u7701": {
             "confirmedCount": 126,
             "suspectedCount": 0,
-            "curedCount": 122,
+            "curedCount": 124,
             "deadCount": 2
         },
         "\u91cd\u5e86\u5e02": {
-            "confirmedCount": 576,
-            "suspectedCount": 0,
+            "confirmedCount": 577,
+            "suspectedCount": 1,
             "curedCount": 570,
             "deadCount": 6
         },
@@ -187,23 +187,23 @@
             "deadCount": 0
         },
         "\u9999\u6e2f\u7279\u522b\u884c\u653f\u533a": {
-            "confirmedCount": 273,
+            "confirmedCount": 317,
             "suspectedCount": 0,
-            "curedCount": 98,
+            "curedCount": 100,
             "deadCount": 4
         },
         "\u9ed1\u9f99\u6c5f\u7701": {
             "confirmedCount": 484,
             "suspectedCount": 0,
-            "curedCount": 463,
+            "curedCount": 466,
             "deadCount": 13
         }
     },
     "adm2": {
         "CN110100": {
-            "confirmedCount": 504,
+            "confirmedCount": 514,
             "suspectedCount": 0,
-            "curedCount": 396,
+            "curedCount": 400,
             "deadCount": 8
         },
         "CN120100": {
@@ -261,7 +261,7 @@
             "deadCount": 0
         },
         "CN130900": {
-            "confirmedCount": 58,
+            "confirmedCount": 59,
             "suspectedCount": 0,
             "curedCount": 55,
             "deadCount": 1
@@ -419,7 +419,7 @@
         "CN210200": {
             "confirmedCount": 4,
             "suspectedCount": 0,
-            "curedCount": 3,
+            "curedCount": 4,
             "deadCount": 0
         },
         "CN210300": {
@@ -473,7 +473,7 @@
         "CN211200": {
             "confirmedCount": 28,
             "suspectedCount": 0,
-            "curedCount": 27,
+            "curedCount": 28,
             "deadCount": 0
         },
         "CN211300": {
@@ -539,7 +539,7 @@
         "CN230100": {
             "confirmedCount": 26,
             "suspectedCount": 0,
-            "curedCount": 24,
+            "curedCount": 25,
             "deadCount": 1
         },
         "CN230200": {
@@ -581,7 +581,7 @@
         "CN230900": {
             "confirmedCount": 243,
             "suspectedCount": 0,
-            "curedCount": 233,
+            "curedCount": 235,
             "deadCount": 5
         },
         "CN231000": {
@@ -609,10 +609,10 @@
             "deadCount": 0
         },
         "CN310100": {
-            "confirmedCount": 380,
+            "confirmedCount": 394,
             "suspectedCount": 0,
-            "curedCount": 327,
-            "deadCount": 3
+            "curedCount": 328,
+            "deadCount": 4
         },
         "CN320100": {
             "confirmedCount": 51,
@@ -645,13 +645,13 @@
             "deadCount": 0
         },
         "CN320600": {
-            "confirmedCount": 13,
+            "confirmedCount": 14,
             "suspectedCount": 0,
             "curedCount": 13,
             "deadCount": 0
         },
         "CN320700": {
-            "confirmedCount": 87,
+            "confirmedCount": 88,
             "suspectedCount": 0,
             "curedCount": 87,
             "deadCount": 0
@@ -747,7 +747,7 @@
             "deadCount": 0
         },
         "CN331000": {
-            "confirmedCount": 506,
+            "confirmedCount": 507,
             "suspectedCount": 0,
             "curedCount": 503,
             "deadCount": 1
@@ -903,7 +903,7 @@
             "deadCount": 0
         },
         "CN350900": {
-            "confirmedCount": 27,
+            "confirmedCount": 31,
             "suspectedCount": 0,
             "curedCount": 20,
             "deadCount": 0
@@ -939,7 +939,7 @@
             "deadCount": 0
         },
         "CN360600": {
-            "confirmedCount": 230,
+            "confirmedCount": 231,
             "suspectedCount": 0,
             "curedCount": 230,
             "deadCount": 0
@@ -995,7 +995,7 @@
         "CN370500": {
             "confirmedCount": 47,
             "suspectedCount": 0,
-            "curedCount": 46,
+            "curedCount": 47,
             "deadCount": 0
         },
         "CN370600": {
@@ -1005,7 +1005,7 @@
             "deadCount": 0
         },
         "CN370700": {
-            "confirmedCount": 5,
+            "confirmedCount": 7,
             "suspectedCount": 0,
             "curedCount": 0,
             "deadCount": 0
@@ -1187,8 +1187,8 @@
         "CN420200": {
             "confirmedCount": 1394,
             "suspectedCount": 0,
-            "curedCount": 1315,
-            "deadCount": 58
+            "curedCount": 1319,
+            "deadCount": 59
         },
         "CN420300": {
             "confirmedCount": 2907,
@@ -1205,7 +1205,7 @@
         "CN420500": {
             "confirmedCount": 928,
             "suspectedCount": 0,
-            "curedCount": 881,
+            "curedCount": 884,
             "deadCount": 39
         },
         "CN420600": {
@@ -1235,7 +1235,7 @@
         "CN421000": {
             "confirmedCount": 1307,
             "suspectedCount": 0,
-            "curedCount": 1242,
+            "curedCount": 1252,
             "deadCount": 45
         },
         "CN421100": {
@@ -1247,8 +1247,8 @@
         "CN421200": {
             "confirmedCount": 50005,
             "suspectedCount": 0,
-            "curedCount": 41892,
-            "deadCount": 2504
+            "curedCount": 42355,
+            "deadCount": 2508
         },
         "CN421300": {
             "confirmedCount": 1175,
@@ -1265,13 +1265,13 @@
         "CN421500": {
             "confirmedCount": 575,
             "suspectedCount": 0,
-            "curedCount": 546,
+            "curedCount": 547,
             "deadCount": 22
         },
         "CN421600": {
             "confirmedCount": 3518,
             "suspectedCount": 0,
-            "curedCount": 3360,
+            "curedCount": 3366,
             "deadCount": 128
         },
         "CN421700": {
@@ -1373,7 +1373,7 @@
         "CN440200": {
             "confirmedCount": 100,
             "suspectedCount": 0,
-            "curedCount": 103,
+            "curedCount": 107,
             "deadCount": 1
         },
         "CN440300": {
@@ -1383,7 +1383,7 @@
             "deadCount": 0
         },
         "CN440400": {
-            "confirmedCount": 366,
+            "confirmedCount": 369,
             "suspectedCount": 0,
             "curedCount": 334,
             "deadCount": 1
@@ -1449,7 +1449,7 @@
             "deadCount": 1
         },
         "CN441500": {
-            "confirmedCount": 436,
+            "confirmedCount": 439,
             "suspectedCount": 0,
             "curedCount": 409,
             "deadCount": 3
@@ -1479,7 +1479,7 @@
             "deadCount": 0
         },
         "CN442100": {
-            "confirmedCount": 100,
+            "confirmedCount": 101,
             "suspectedCount": 0,
             "curedCount": 97,
             "deadCount": 1
@@ -1647,8 +1647,8 @@
             "deadCount": 0
         },
         "CN500100": {
-            "confirmedCount": 576,
-            "suspectedCount": 0,
+            "confirmedCount": 577,
+            "suspectedCount": 1,
             "curedCount": 570,
             "deadCount": 6
         },
@@ -1659,7 +1659,7 @@
             "deadCount": 0
         },
         "CN510200": {
-            "confirmedCount": 147,
+            "confirmedCount": 148,
             "suspectedCount": 0,
             "curedCount": 141,
             "deadCount": 3
@@ -2007,9 +2007,9 @@
             "deadCount": 0
         },
         "CN620400": {
-            "confirmedCount": 43,
+            "confirmedCount": 45,
             "suspectedCount": 0,
-            "curedCount": 24,
+            "curedCount": 25,
             "deadCount": 0
         },
         "CN620500": {
@@ -2139,13 +2139,13 @@
             "deadCount": 0
         },
         "CN810100": {
-            "confirmedCount": 273,
+            "confirmedCount": 317,
             "suspectedCount": 0,
-            "curedCount": 98,
+            "curedCount": 100,
             "deadCount": 4
         },
         "CN820100": {
-            "confirmedCount": 17,
+            "confirmedCount": 20,
             "suspectedCount": 0,
             "curedCount": 10,
             "deadCount": 0
