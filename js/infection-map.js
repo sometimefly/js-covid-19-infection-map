@@ -155,6 +155,9 @@ var getPointStyle = function(f) {
     var p = f.getProperties();
     var pointStyle;
     var radiusSize = 3;
+    var fillColor = new ol.style.Fill({
+        color: 'rgba(255,0,0,0.5)'
+    });
     if (p.Confirmed < 10) {
         radiusSize = 3;
     } else if (p.Confirmed < 50) {
@@ -171,15 +174,18 @@ var getPointStyle = function(f) {
         radiusSize = p.Confirmed / 300;
         if (radiusSize < 27) {
             radiusSize = 27;
+        } else {
+            radiusSize = 80;
+            fillColor = new ol.style.Fill({
+                color: 'rgba(0,0,0,0.5)'
+            })
         }
     }
     if (!pointStylePool[radiusSize]) {
         pointStylePool[radiusSize] = new ol.style.Style({
             image: new ol.style.Circle({
                 radius: radiusSize,
-                fill: new ol.style.Fill({
-                    color: 'rgba(255,0,0,0.5)'
-                })
+                fill: fillColor
             }),
         });
     }
@@ -291,10 +297,11 @@ map.on('singleclick', function(evt) {
             message += '<tr><th scope="row">區域</th><td>' + messageTitle + '</td></tr>';
             message += '<tr><th scope="row">確診</th><td>' + p.confirmedCount + '</td></tr>';
             if (taiwanData[p.COUNTYID]) {
+                console.log(taiwanData[p.COUNTYID]);
                 message += '<tr><td colspan="2"><ul>';
                 for (k in taiwanData[p.COUNTYID].cases) {
-                    var caseText = taiwanData[p.COUNTYID].cases[k]['診斷年份'] + '年';
-                    caseText += '第' + taiwanData[p.COUNTYID].cases[k]['診斷週別'] + '週';
+                    var caseText = taiwanData[p.COUNTYID].cases[k]['發病年份'] + '年';
+                    caseText += '第' + taiwanData[p.COUNTYID].cases[k]['發病週別'] + '週';
                     caseText += '確診' + taiwanData[p.COUNTYID].cases[k]['確定病例數'] + '名';
                     if (taiwanData[p.COUNTYID].cases[k]['性別'] === 'F') {
                         caseText += '女性，';
@@ -332,7 +339,7 @@ map.on('singleclick', function(evt) {
             message += '<tr><th scope="row">確診</th><td>' + p.Confirmed + '</td></tr>';
             message += '<tr><th scope="row">治癒</th><td>' + p.Recovered + '</td></tr>';
             message += '<tr><th scope="row">死亡</th><td>' + p.Deaths + '</td></tr>';
-            message += '<tr><th scope="row">更新時間（UTC）</th><td>' + p['Last Update'] + '</td></tr>';
+            message += '<tr><th scope="row">更新時間</th><td>' + p['Last Update'] + '</td></tr>';
             message += '<tr><th scope="row">資料來源</th><td><a href="https://systems.jhu.edu/research/public-health/ncov/" target="_blank">JHU CSSE</a></td></tr>';
             sidebarTitle.innerHTML = p['Province/State'] + ',' + p['Country/Region'];
             message += '</tbody></table>';
