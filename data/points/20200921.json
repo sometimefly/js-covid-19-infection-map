@@ -24420,7 +24420,7 @@
             "properties": {
                 "FIPS": 90008,
                 "Admin2": "Unassigned",
-                "Confirmed": 0,
+                "Confirmed": 20,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 0,
@@ -39968,7 +39968,7 @@
             "properties": {
                 "FIPS": 20001,
                 "Admin2": "Allen",
-                "Confirmed": 32,
+                "Confirmed": 42,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 32,
@@ -39994,7 +39994,7 @@
             "properties": {
                 "FIPS": 20003,
                 "Admin2": "Anderson",
-                "Confirmed": 65,
+                "Confirmed": 69,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 65,
@@ -40098,7 +40098,7 @@
             "properties": {
                 "FIPS": 20011,
                 "Admin2": "Bourbon",
-                "Confirmed": 141,
+                "Confirmed": 160,
                 "Deaths": 2,
                 "Recovered": 0,
                 "Active": 139,
@@ -40124,7 +40124,7 @@
             "properties": {
                 "FIPS": 20013,
                 "Admin2": "Brown",
-                "Confirmed": 96,
+                "Confirmed": 98,
                 "Deaths": 3,
                 "Recovered": 0,
                 "Active": 93,
@@ -40150,7 +40150,7 @@
             "properties": {
                 "FIPS": 20015,
                 "Admin2": "Butler",
-                "Confirmed": 494,
+                "Confirmed": 892,
                 "Deaths": 3,
                 "Recovered": 0,
                 "Active": 491,
@@ -40202,7 +40202,7 @@
             "properties": {
                 "FIPS": 20019,
                 "Admin2": "Chautauqua",
-                "Confirmed": 13,
+                "Confirmed": 16,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 13,
@@ -40280,7 +40280,7 @@
             "properties": {
                 "FIPS": 20025,
                 "Admin2": "Clark",
-                "Confirmed": 48,
+                "Confirmed": 50,
                 "Deaths": 1,
                 "Recovered": 0,
                 "Active": 47,
@@ -40306,7 +40306,7 @@
             "properties": {
                 "FIPS": 20027,
                 "Admin2": "Clay",
-                "Confirmed": 47,
+                "Confirmed": 49,
                 "Deaths": 2,
                 "Recovered": 0,
                 "Active": 45,
@@ -40358,7 +40358,7 @@
             "properties": {
                 "FIPS": 20031,
                 "Admin2": "Coffey",
-                "Confirmed": 108,
+                "Confirmed": 111,
                 "Deaths": 8,
                 "Recovered": 0,
                 "Active": 100,
@@ -40410,7 +40410,7 @@
             "properties": {
                 "FIPS": 20035,
                 "Admin2": "Cowley",
-                "Confirmed": 342,
+                "Confirmed": 348,
                 "Deaths": 3,
                 "Recovered": 0,
                 "Active": 339,
@@ -40592,7 +40592,7 @@
             "properties": {
                 "FIPS": 20049,
                 "Admin2": "Elk",
-                "Confirmed": 1,
+                "Confirmed": 4,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 1,
@@ -40696,7 +40696,7 @@
             "properties": {
                 "FIPS": 20057,
                 "Admin2": "Ford",
-                "Confirmed": 2655,
+                "Confirmed": 2691,
                 "Deaths": 10,
                 "Recovered": 0,
                 "Active": 2645,
@@ -40722,7 +40722,7 @@
             "properties": {
                 "FIPS": 20059,
                 "Admin2": "Franklin",
-                "Confirmed": 320,
+                "Confirmed": 321,
                 "Deaths": 3,
                 "Recovered": 0,
                 "Active": 317,
@@ -40748,7 +40748,7 @@
             "properties": {
                 "FIPS": 20061,
                 "Admin2": "Geary",
-                "Confirmed": 286,
+                "Confirmed": 394,
                 "Deaths": 2,
                 "Recovered": 0,
                 "Active": 284,
@@ -40774,7 +40774,7 @@
             "properties": {
                 "FIPS": 20063,
                 "Admin2": "Gove",
-                "Confirmed": 25,
+                "Confirmed": 28,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 25,
@@ -40878,7 +40878,7 @@
             "properties": {
                 "FIPS": 20071,
                 "Admin2": "Greeley",
-                "Confirmed": 7,
+                "Confirmed": 8,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 7,
@@ -40930,7 +40930,7 @@
             "properties": {
                 "FIPS": 20075,
                 "Admin2": "Hamilton",
-                "Confirmed": 42,
+                "Confirmed": 44,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 42,
@@ -40982,7 +40982,7 @@
             "properties": {
                 "FIPS": 20079,
                 "Admin2": "Harvey",
-                "Confirmed": 341,
+                "Confirmed": 342,
                 "Deaths": 4,
                 "Recovered": 0,
                 "Active": 337,
@@ -41138,7 +41138,7 @@
             "properties": {
                 "FIPS": 20091,
                 "Admin2": "Johnson",
-                "Confirmed": 10236,
+                "Confirmed": 10462,
                 "Deaths": 141,
                 "Recovered": 0,
                 "Active": 10095,
@@ -41164,7 +41164,7 @@
             "properties": {
                 "FIPS": 20093,
                 "Admin2": "Kearny",
-                "Confirmed": 80,
+                "Confirmed": 82,
                 "Deaths": 1,
                 "Recovered": 0,
                 "Active": 79,
@@ -41190,7 +41190,7 @@
             "properties": {
                 "FIPS": 20095,
                 "Admin2": "Kingman",
-                "Confirmed": 74,
+                "Confirmed": 78,
                 "Deaths": 1,
                 "Recovered": 0,
                 "Active": 73,
@@ -41242,7 +41242,7 @@
             "properties": {
                 "FIPS": 20099,
                 "Admin2": "Labette",
-                "Confirmed": 226,
+                "Confirmed": 228,
                 "Deaths": 4,
                 "Recovered": 0,
                 "Active": 222,
@@ -41268,7 +41268,7 @@
             "properties": {
                 "FIPS": 20101,
                 "Admin2": "Lane",
-                "Confirmed": 12,
+                "Confirmed": 13,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 12,
@@ -41294,7 +41294,7 @@
             "properties": {
                 "FIPS": 20103,
                 "Admin2": "Leavenworth",
-                "Confirmed": 1923,
+                "Confirmed": 1979,
                 "Deaths": 11,
                 "Recovered": 0,
                 "Active": 1912,
@@ -41346,7 +41346,7 @@
             "properties": {
                 "FIPS": 20107,
                 "Admin2": "Linn",
-                "Confirmed": 68,
+                "Confirmed": 72,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 68,
@@ -41372,7 +41372,7 @@
             "properties": {
                 "FIPS": 20109,
                 "Admin2": "Logan",
-                "Confirmed": 7,
+                "Confirmed": 9,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 7,
@@ -41424,7 +41424,7 @@
             "properties": {
                 "FIPS": 20115,
                 "Admin2": "Marion",
-                "Confirmed": 72,
+                "Confirmed": 86,
                 "Deaths": 1,
                 "Recovered": 0,
                 "Active": 71,
@@ -41502,7 +41502,7 @@
             "properties": {
                 "FIPS": 20119,
                 "Admin2": "Meade",
-                "Confirmed": 99,
+                "Confirmed": 107,
                 "Deaths": 1,
                 "Recovered": 0,
                 "Active": 98,
@@ -41528,7 +41528,7 @@
             "properties": {
                 "FIPS": 20121,
                 "Admin2": "Miami",
-                "Confirmed": 328,
+                "Confirmed": 345,
                 "Deaths": 1,
                 "Recovered": 0,
                 "Active": 327,
@@ -41606,7 +41606,7 @@
             "properties": {
                 "FIPS": 20127,
                 "Admin2": "Morris",
-                "Confirmed": 28,
+                "Confirmed": 31,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 28,
@@ -41658,7 +41658,7 @@
             "properties": {
                 "FIPS": 20131,
                 "Admin2": "Nemaha",
-                "Confirmed": 84,
+                "Confirmed": 90,
                 "Deaths": 1,
                 "Recovered": 0,
                 "Active": 83,
@@ -41710,7 +41710,7 @@
             "properties": {
                 "FIPS": 20135,
                 "Admin2": "Ness",
-                "Confirmed": 67,
+                "Confirmed": 71,
                 "Deaths": 6,
                 "Recovered": 0,
                 "Active": 61,
@@ -41762,7 +41762,7 @@
             "properties": {
                 "FIPS": 20139,
                 "Admin2": "Osage",
-                "Confirmed": 91,
+                "Confirmed": 95,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 91,
@@ -41788,7 +41788,7 @@
             "properties": {
                 "FIPS": 20141,
                 "Admin2": "Osborne",
-                "Confirmed": 5,
+                "Confirmed": 6,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 5,
@@ -41840,7 +41840,7 @@
             "properties": {
                 "FIPS": 20145,
                 "Admin2": "Pawnee",
-                "Confirmed": 336,
+                "Confirmed": 344,
                 "Deaths": 1,
                 "Recovered": 0,
                 "Active": 335,
@@ -41944,7 +41944,7 @@
             "properties": {
                 "FIPS": 20153,
                 "Admin2": "Rawlins",
-                "Confirmed": 6,
+                "Confirmed": 13,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 6,
@@ -41970,7 +41970,7 @@
             "properties": {
                 "FIPS": 20155,
                 "Admin2": "Reno",
-                "Confirmed": 960,
+                "Confirmed": 1024,
                 "Deaths": 3,
                 "Recovered": 0,
                 "Active": 957,
@@ -42022,7 +42022,7 @@
             "properties": {
                 "FIPS": 20159,
                 "Admin2": "Rice",
-                "Confirmed": 67,
+                "Confirmed": 70,
                 "Deaths": 1,
                 "Recovered": 0,
                 "Active": 66,
@@ -42100,7 +42100,7 @@
             "properties": {
                 "FIPS": 20165,
                 "Admin2": "Rush",
-                "Confirmed": 40,
+                "Confirmed": 50,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 40,
@@ -42204,7 +42204,7 @@
             "properties": {
                 "FIPS": 20173,
                 "Admin2": "Sedgwick",
-                "Confirmed": 8090,
+                "Confirmed": 8465,
                 "Deaths": 82,
                 "Recovered": 0,
                 "Active": 8008,
@@ -42256,7 +42256,7 @@
             "properties": {
                 "FIPS": 20177,
                 "Admin2": "Shawnee",
-                "Confirmed": 2577,
+                "Confirmed": 2602,
                 "Deaths": 30,
                 "Recovered": 0,
                 "Active": 2547,
@@ -42282,7 +42282,7 @@
             "properties": {
                 "FIPS": 20179,
                 "Admin2": "Sheridan",
-                "Confirmed": 13,
+                "Confirmed": 14,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 13,
@@ -42386,7 +42386,7 @@
             "properties": {
                 "FIPS": 20187,
                 "Admin2": "Stanton",
-                "Confirmed": 48,
+                "Confirmed": 55,
                 "Deaths": 2,
                 "Recovered": 0,
                 "Active": 46,
@@ -42438,7 +42438,7 @@
             "properties": {
                 "FIPS": 20191,
                 "Admin2": "Sumner",
-                "Confirmed": 182,
+                "Confirmed": 185,
                 "Deaths": 3,
                 "Recovered": 0,
                 "Active": 179,
@@ -42542,7 +42542,7 @@
             "properties": {
                 "FIPS": 20197,
                 "Admin2": "Wabaunsee",
-                "Confirmed": 66,
+                "Confirmed": 67,
                 "Deaths": 1,
                 "Recovered": 0,
                 "Active": 65,
@@ -42672,7 +42672,7 @@
             "properties": {
                 "FIPS": 20207,
                 "Admin2": "Woodson",
-                "Confirmed": 15,
+                "Confirmed": 19,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 15,
@@ -42698,7 +42698,7 @@
             "properties": {
                 "FIPS": 20209,
                 "Admin2": "Wyandotte",
-                "Confirmed": 6693,
+                "Confirmed": 6822,
                 "Deaths": 133,
                 "Recovered": 0,
                 "Active": 6560,
@@ -64981,7 +64981,7 @@
                 "FIPS": 36003,
                 "Admin2": "Allegany",
                 "Confirmed": 99,
-                "Deaths": 1,
+                "Deaths": 2,
                 "Recovered": 0,
                 "Active": 98,
                 "Combined_Key": "Allegany, New York, US",
@@ -65033,7 +65033,7 @@
                 "FIPS": 36007,
                 "Admin2": "Broome",
                 "Confirmed": 1472,
-                "Deaths": 69,
+                "Deaths": 85,
                 "Recovered": 0,
                 "Active": 1403,
                 "Combined_Key": "Broome, New York, US",
@@ -65059,7 +65059,7 @@
                 "FIPS": 36009,
                 "Admin2": "Cattaraugus",
                 "Confirmed": 255,
-                "Deaths": 6,
+                "Deaths": 7,
                 "Recovered": 0,
                 "Active": 249,
                 "Combined_Key": "Cattaraugus, New York, US",
@@ -65215,7 +65215,7 @@
                 "FIPS": 36021,
                 "Admin2": "Columbia",
                 "Confirmed": 582,
-                "Deaths": 37,
+                "Deaths": 47,
                 "Recovered": 0,
                 "Active": 545,
                 "Combined_Key": "Columbia, New York, US",
@@ -65241,7 +65241,7 @@
                 "FIPS": 36023,
                 "Admin2": "Cortland",
                 "Confirmed": 161,
-                "Deaths": 0,
+                "Deaths": 1,
                 "Recovered": 0,
                 "Active": 161,
                 "Combined_Key": "Cortland, New York, US",
@@ -65293,7 +65293,7 @@
                 "FIPS": 36027,
                 "Admin2": "Dutchess",
                 "Confirmed": 5076,
-                "Deaths": 153,
+                "Deaths": 156,
                 "Recovered": 0,
                 "Active": 4923,
                 "Combined_Key": "Dutchess, New York, US",
@@ -65345,7 +65345,7 @@
                 "FIPS": 36031,
                 "Admin2": "Essex",
                 "Confirmed": 160,
-                "Deaths": 0,
+                "Deaths": 13,
                 "Recovered": 0,
                 "Active": 160,
                 "Combined_Key": "Essex, New York, US",
@@ -65371,7 +65371,7 @@
                 "FIPS": 36033,
                 "Admin2": "Franklin",
                 "Confirmed": 65,
-                "Deaths": 0,
+                "Deaths": 1,
                 "Recovered": 0,
                 "Active": 65,
                 "Combined_Key": "Franklin, New York, US",
@@ -65397,7 +65397,7 @@
                 "FIPS": 36035,
                 "Admin2": "Fulton",
                 "Confirmed": 332,
-                "Deaths": 24,
+                "Deaths": 28,
                 "Recovered": 0,
                 "Active": 308,
                 "Combined_Key": "Fulton, New York, US",
@@ -65423,7 +65423,7 @@
                 "FIPS": 36037,
                 "Admin2": "Genesee",
                 "Confirmed": 316,
-                "Deaths": 5,
+                "Deaths": 6,
                 "Recovered": 0,
                 "Active": 311,
                 "Combined_Key": "Genesee, New York, US",
@@ -65475,7 +65475,7 @@
                 "FIPS": 36041,
                 "Admin2": "Hamilton",
                 "Confirmed": 15,
-                "Deaths": 0,
+                "Deaths": 1,
                 "Recovered": 0,
                 "Active": 15,
                 "Combined_Key": "Hamilton, New York, US",
@@ -65527,7 +65527,7 @@
                 "FIPS": 36045,
                 "Admin2": "Jefferson",
                 "Confirmed": 163,
-                "Deaths": 0,
+                "Deaths": 1,
                 "Recovered": 0,
                 "Active": 163,
                 "Combined_Key": "Jefferson, New York, US",
@@ -65579,7 +65579,7 @@
                 "FIPS": 36049,
                 "Admin2": "Lewis",
                 "Confirmed": 50,
-                "Deaths": 0,
+                "Deaths": 5,
                 "Recovered": 0,
                 "Active": 50,
                 "Combined_Key": "Lewis, New York, US",
@@ -65683,7 +65683,7 @@
                 "FIPS": 36057,
                 "Admin2": "Montgomery",
                 "Confirmed": 227,
-                "Deaths": 4,
+                "Deaths": 9,
                 "Recovered": 0,
                 "Active": 223,
                 "Combined_Key": "Montgomery, New York, US",
@@ -65891,7 +65891,7 @@
                 "FIPS": 36073,
                 "Admin2": "Orleans",
                 "Confirmed": 324,
-                "Deaths": 54,
+                "Deaths": 55,
                 "Recovered": 0,
                 "Active": 270,
                 "Combined_Key": "Orleans, New York, US",
@@ -65960,6 +65960,32 @@
                 "coordinates": [
                     -75.03151402,
                     42.63492579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FIPS": 80036,
+                "Admin2": "Out of NY",
+                "Confirmed": 0,
+                "Deaths": 0,
+                "Recovered": 0,
+                "Active": 0,
+                "Combined_Key": "Out of NY, New York, US",
+                "Incidence_Rate": "",
+                "Case-Fatality_Ratio": "",
+                "Province\/State": "New York",
+                "Country\/Region": "US",
+                "Last Update (UTC)": "2020-09-22 04:23:00",
+                "Latitude": "",
+                "Longitude": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0060152,
+                    40.7127281
                 ]
             }
         },
@@ -66151,7 +66177,7 @@
                 "FIPS": 36095,
                 "Admin2": "Schoharie",
                 "Confirmed": 83,
-                "Deaths": 0,
+                "Deaths": 2,
                 "Recovered": 0,
                 "Active": 83,
                 "Combined_Key": "Schoharie, New York, US",
@@ -66281,7 +66307,7 @@
                 "FIPS": 36103,
                 "Admin2": "Suffolk",
                 "Confirmed": 46109,
-                "Deaths": 2011,
+                "Deaths": 2012,
                 "Recovered": 0,
                 "Active": 44098,
                 "Combined_Key": "Suffolk, New York, US",
