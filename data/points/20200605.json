@@ -90928,8 +90928,8 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 18969,
-                "Deaths": 309,
+                "Confirmed": 18972,
+                "Deaths": 313,
                 "Recovered": 1762,
                 "Active": 16898,
                 "Combined_Key": "Afghanistan",
@@ -92930,9 +92930,9 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 17562,
-                "Deaths": 291,
-                "Recovered": 15026,
+                "Confirmed": 17666,
+                "Deaths": 294,
+                "Recovered": 14936,
                 "Active": 2245,
                 "Combined_Key": "Israel",
                 "Incidence_Rate": 202.89892913683846,

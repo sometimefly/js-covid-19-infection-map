@@ -77190,8 +77190,8 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 8145,
-                "Deaths": 187,
+                "Confirmed": 8146,
+                "Deaths": 188,
                 "Recovered": 930,
                 "Active": 7028,
                 "Combined_Key": "Afghanistan",
@@ -79062,9 +79062,9 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 16667,
-                "Deaths": 279,
-                "Recovered": 13504,
+                "Confirmed": 16607,
+                "Deaths": 281,
+                "Recovered": 13613,
                 "Active": 2884,
                 "Combined_Key": "Israel",
                 "Province\/State": "",

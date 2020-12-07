@@ -64206,8 +64206,8 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 423,
-                "Deaths": 14,
+                "Confirmed": 424,
+                "Deaths": 16,
                 "Recovered": 18,
                 "Active": 391,
                 "Combined_Key": "Afghanistan",
@@ -66126,9 +66126,9 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 9248,
-                "Deaths": 65,
-                "Recovered": 770,
+                "Confirmed": 9568,
+                "Deaths": 72,
+                "Recovered": 1059,
                 "Active": 8413,
                 "Combined_Key": "Israel",
                 "Province\/State": "",

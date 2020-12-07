@@ -73206,7 +73206,7 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 4402,
+                "Confirmed": 4403,
                 "Deaths": 120,
                 "Recovered": 558,
                 "Active": 3724,
@@ -75150,9 +75150,9 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 16477,
-                "Deaths": 252,
-                "Recovered": 11430,
+                "Confirmed": 16388,
+                "Deaths": 255,
+                "Recovered": 11649,
                 "Active": 4795,
                 "Combined_Key": "Israel",
                 "Province\/State": "",

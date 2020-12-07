@@ -97636,8 +97636,8 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 36157,
-                "Deaths": 1259,
+                "Confirmed": 36147,
+                "Deaths": 1261,
                 "Recovered": 25180,
                 "Active": 9718,
                 "Combined_Key": "Afghanistan",
@@ -99612,9 +99612,9 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 61956,
-                "Deaths": 470,
-                "Recovered": 27025,
+                "Confirmed": 62458,
+                "Deaths": 505,
+                "Recovered": 39100,
                 "Active": 34461,
                 "Combined_Key": "Israel",
                 "Incidence_Rate": 715.7958121855122,

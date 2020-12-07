@@ -6,8 +6,8 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 37596,
-                "Deaths": 1375,
+                "Confirmed": 37590,
+                "Deaths": 1376,
                 "Recovered": 27166,
                 "Active": 9055,
                 "Combined_Key": "Afghanistan",
@@ -7130,9 +7130,9 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 92680,
-                "Deaths": 685,
-                "Recovered": 68510,
+                "Confirmed": 93410,
+                "Deaths": 764,
+                "Recovered": 70473,
                 "Active": 23485,
                 "Combined_Key": "Israel",
                 "Incidence_Rate": 1070.7591818928477,
@@ -9002,8 +9002,8 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 103033,
-                "Deaths": 1269,
+                "Confirmed": 121161,
+                "Deaths": 1485,
                 "Recovered": 82777,
                 "Active": 18987,
                 "Combined_Key": "Kazakhstan",
@@ -30868,7 +30868,7 @@
             "properties": {
                 "FIPS": 66,
                 "Admin2": "",
-                "Confirmed": 502,
+                "Confirmed": 516,
                 "Deaths": 5,
                 "Recovered": 0,
                 "Active": 497,

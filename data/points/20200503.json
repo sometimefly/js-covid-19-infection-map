@@ -72342,7 +72342,7 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 2704,
+                "Confirmed": 2705,
                 "Deaths": 85,
                 "Recovered": 345,
                 "Active": 2274,
@@ -74286,9 +74286,9 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 16208,
-                "Deaths": 232,
-                "Recovered": 9749,
+                "Confirmed": 16096,
+                "Deaths": 235,
+                "Recovered": 9945,
                 "Active": 6227,
                 "Combined_Key": "Israel",
                 "Province\/State": "",

@@ -6,7 +6,7 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 45966,
+                "Confirmed": 45844,
                 "Deaths": 1752,
                 "Recovered": 36709,
                 "Active": 7505,
@@ -7442,9 +7442,9 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 334789,
-                "Deaths": 2854,
-                "Recovered": 322012,
+                "Confirmed": 334908,
+                "Deaths": 2856,
+                "Recovered": 321801,
                 "Active": 9923,
                 "Combined_Key": "Israel",
                 "Incident_Rate": 3867.915361962933,
@@ -9314,9 +9314,9 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 130865,
-                "Deaths": 1990,
-                "Recovered": 116187,
+                "Confirmed": 172805,
+                "Deaths": 2430,
+                "Recovered": 146549,
                 "Active": 12688,
                 "Combined_Key": "Kazakhstan",
                 "Incident_Rate": 696.9539440541944,
@@ -25356,7 +25356,7 @@
             "properties": {
                 "FIPS": 11001,
                 "Admin2": "District of Columbia",
-                "Confirmed": 21038,
+                "Confirmed": 21308,
                 "Deaths": 678,
                 "Recovered": 0,
                 "Active": 20360,
@@ -31362,7 +31362,7 @@
             "properties": {
                 "FIPS": 66,
                 "Admin2": "",
-                "Confirmed": 6768,
+                "Confirmed": 6782,
                 "Deaths": 112,
                 "Recovered": 0,
                 "Active": 6656,
