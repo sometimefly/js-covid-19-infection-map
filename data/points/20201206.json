@@ -14982,6 +14982,32 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
+                "Confirmed": 2,
+                "Deaths": 0,
+                "Recovered": 0,
+                "Active": 0,
+                "Combined_Key": "Samoa",
+                "Incident_Rate": "",
+                "Case_Fatality_Ratio": "",
+                "Province\/State": "",
+                "Country\/Region": "Samoa",
+                "Last Update (UTC)": "2020-12-07 05:26:14",
+                "Latitude": -13.759,
+                "Longitude": -172.1046
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.1046,
+                    -13.759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FIPS": "",
+                "Admin2": "",
                 "Confirmed": 1789,
                 "Deaths": 48,
                 "Recovered": 1412,
@@ -63681,7 +63707,7 @@
                 "FIPS": 33001,
                 "Admin2": "Belknap",
                 "Confirmed": 934,
-                "Deaths": 25,
+                "Deaths": 27,
                 "Recovered": 0,
                 "Active": 909,
                 "Combined_Key": "Belknap, New Hampshire, US",
@@ -63706,7 +63732,7 @@
             "properties": {
                 "FIPS": 33003,
                 "Admin2": "Carroll",
-                "Confirmed": 496,
+                "Confirmed": 500,
                 "Deaths": 2,
                 "Recovered": 0,
                 "Active": 494,
@@ -63732,7 +63758,7 @@
             "properties": {
                 "FIPS": 33005,
                 "Admin2": "Cheshire",
-                "Confirmed": 690,
+                "Confirmed": 682,
                 "Deaths": 4,
                 "Recovered": 0,
                 "Active": 686,
@@ -63784,7 +63810,7 @@
             "properties": {
                 "FIPS": 33009,
                 "Admin2": "Grafton",
-                "Confirmed": 652,
+                "Confirmed": 650,
                 "Deaths": 2,
                 "Recovered": 0,
                 "Active": 650,
@@ -63810,7 +63836,7 @@
             "properties": {
                 "FIPS": 33011,
                 "Admin2": "Hillsborough",
-                "Confirmed": 10458,
+                "Confirmed": 10739,
                 "Deaths": 346,
                 "Recovered": 0,
                 "Active": 10112,
@@ -63836,8 +63862,8 @@
             "properties": {
                 "FIPS": 33013,
                 "Admin2": "Merrimack",
-                "Confirmed": 2408,
-                "Deaths": 36,
+                "Confirmed": 2413,
+                "Deaths": 37,
                 "Recovered": 0,
                 "Active": 2372,
                 "Combined_Key": "Merrimack, New Hampshire, US",
@@ -63862,8 +63888,8 @@
             "properties": {
                 "FIPS": 33015,
                 "Admin2": "Rockingham",
-                "Confirmed": 5976,
-                "Deaths": 114,
+                "Confirmed": 6005,
+                "Deaths": 115,
                 "Recovered": 0,
                 "Active": 5862,
                 "Combined_Key": "Rockingham, New Hampshire, US",
@@ -63888,7 +63914,7 @@
             "properties": {
                 "FIPS": 33017,
                 "Admin2": "Strafford",
-                "Confirmed": 1823,
+                "Confirmed": 1830,
                 "Deaths": 17,
                 "Recovered": 0,
                 "Active": 1806,
@@ -63940,8 +63966,8 @@
             "properties": {
                 "FIPS": 90033,
                 "Admin2": "Unassigned",
-                "Confirmed": 839,
-                "Deaths": 4,
+                "Confirmed": 406,
+                "Deaths": 0,
                 "Recovered": 0,
                 "Active": 835,
                 "Combined_Key": "Unassigned, New Hampshire, US",
@@ -101276,7 +101302,7 @@
             "properties": {
                 "FIPS": 56001,
                 "Admin2": "Albany",
-                "Confirmed": 3120,
+                "Confirmed": 3219,
                 "Deaths": 9,
                 "Recovered": 0,
                 "Active": 3111,
@@ -103192,32 +103218,6 @@
                 "coordinates": [
                     35.2332,
                     31.9522
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "FIPS": "",
-                "Admin2": "",
-                "Confirmed": 10,
-                "Deaths": 1,
-                "Recovered": 8,
-                "Active": 1,
-                "Combined_Key": "Western Sahara",
-                "Incident_Rate": 1.674116485025028,
-                "Case_Fatality_Ratio": 10,
-                "Province\/State": "",
-                "Country\/Region": "Western Sahara",
-                "Last Update (UTC)": "2020-12-07 05:26:14",
-                "Latitude": 24.2155,
-                "Longitude": -12.8858
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -12.8858,
-                    24.2155
                 ]
             }
         },
