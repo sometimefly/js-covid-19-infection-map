@@ -67216,7 +67216,7 @@
             "properties": {
                 "FIPS": 20171,
                 "Admin2": "Scott",
-                "Confirmed": 22,
+                "Confirmed": 21,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 22,
@@ -101458,7 +101458,7 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 3269,
+                "Confirmed": 3261,
                 "Deaths": 58,
                 "Recovered": 3105,
                 "Active": 106,

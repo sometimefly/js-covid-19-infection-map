@@ -16256,9 +16256,9 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 3382,
+                "Confirmed": 3381,
                 "Deaths": 58,
-                "Recovered": 3199,
+                "Recovered": 3198,
                 "Active": 125,
                 "Combined_Key": "Thailand",
                 "Incidence_Rate": 4.845273733,
@@ -42178,7 +42178,7 @@
             "properties": {
                 "FIPS": 20171,
                 "Admin2": "Scott",
-                "Confirmed": 79,
+                "Confirmed": 66,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 79,
@@ -42464,7 +42464,7 @@
             "properties": {
                 "FIPS": 20193,
                 "Admin2": "Thomas",
-                "Confirmed": 51,
+                "Confirmed": 49,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 51,

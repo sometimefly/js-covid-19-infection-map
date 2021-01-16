@@ -42230,7 +42230,7 @@
             "properties": {
                 "FIPS": 20137,
                 "Admin2": "Norton",
-                "Confirmed": 1014,
+                "Confirmed": 977,
                 "Deaths": 21,
                 "Recovered": 0,
                 "Active": 993,
@@ -42672,7 +42672,7 @@
             "properties": {
                 "FIPS": 20171,
                 "Admin2": "Scott",
-                "Confirmed": 272,
+                "Confirmed": 270,
                 "Deaths": 1,
                 "Recovered": 0,
                 "Active": 271,
@@ -42906,7 +42906,7 @@
             "properties": {
                 "FIPS": 20189,
                 "Admin2": "Stevens",
-                "Confirmed": 364,
+                "Confirmed": 338,
                 "Deaths": 2,
                 "Recovered": 0,
                 "Active": 362,
@@ -42958,7 +42958,7 @@
             "properties": {
                 "FIPS": 20193,
                 "Admin2": "Thomas",
-                "Confirmed": 563,
+                "Confirmed": 526,
                 "Deaths": 2,
                 "Recovered": 0,
                 "Active": 561,
@@ -103226,9 +103226,9 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 2078,
-                "Deaths": 605,
-                "Recovered": 1406,
+                "Confirmed": 2068,
+                "Deaths": 603,
+                "Recovered": 1378,
                 "Active": 67,
                 "Combined_Key": "Yemen",
                 "Incident_Rate": 6.967083180669945,

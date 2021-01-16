@@ -16646,9 +16646,9 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 4026,
+                "Confirmed": 4039,
                 "Deaths": 60,
-                "Recovered": 3822,
+                "Recovered": 3832,
                 "Active": 144,
                 "Combined_Key": "Thailand",
                 "Incident_Rate": 5.767910127421531,
@@ -42230,7 +42230,7 @@
             "properties": {
                 "FIPS": 20137,
                 "Admin2": "Norton",
-                "Confirmed": 1107,
+                "Confirmed": 1066,
                 "Deaths": 24,
                 "Recovered": 0,
                 "Active": 1083,
@@ -42438,7 +42438,7 @@
             "properties": {
                 "FIPS": 20153,
                 "Admin2": "Rawlins",
-                "Confirmed": 248,
+                "Confirmed": 190,
                 "Deaths": 3,
                 "Recovered": 0,
                 "Active": 245,
@@ -42672,7 +42672,7 @@
             "properties": {
                 "FIPS": 20171,
                 "Admin2": "Scott",
-                "Confirmed": 468,
+                "Confirmed": 374,
                 "Deaths": 5,
                 "Recovered": 0,
                 "Active": 463,
@@ -42906,7 +42906,7 @@
             "properties": {
                 "FIPS": 20189,
                 "Admin2": "Stevens",
-                "Confirmed": 449,
+                "Confirmed": 412,
                 "Deaths": 4,
                 "Recovered": 0,
                 "Active": 445,
@@ -42958,7 +42958,7 @@
             "properties": {
                 "FIPS": 20193,
                 "Admin2": "Thomas",
-                "Confirmed": 740,
+                "Confirmed": 703,
                 "Deaths": 6,
                 "Recovered": 0,
                 "Active": 734,
@@ -103226,9 +103226,9 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 2217,
-                "Deaths": 621,
-                "Recovered": 1518,
+                "Confirmed": 2077,
+                "Deaths": 605,
+                "Recovered": 1382,
                 "Active": 78,
                 "Combined_Key": "Yemen",
                 "Incident_Rate": 7.4331200248052305,
